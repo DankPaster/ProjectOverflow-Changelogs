@@ -1,6 +1,6 @@
 # ProjectOverflow-Changelogs
 
-#11/21/17 -
+# 11/21/17 -
 Ragebot: Added Dynamic Resolver, Added LBY Resolver, Added Lowerbody Resolver, Added Delta Resolver, Optimized Hitchance, Optimized Autowall, Debug Info added, 
 
 Legitbot: RCS X and RCS Y fixed.
@@ -15,7 +15,7 @@ Loader API v1.2 pushed.
 
 Starting to make a ImGUI menu and rework Autowall. (Thanks Ducarii for the placeholder menu.)
 
-#11/22/17 -
+# 11/22/17 -
 Added Log, Added Resolver debug, Added info box (Upon resolve it tells you their exact angles)
 
 Added Step-30, Step-45 and Step-90 for resolving.
