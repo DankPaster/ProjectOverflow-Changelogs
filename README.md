@@ -24,4 +24,7 @@ Added Log (Shows what enemies bought, Damage dealt to enemies and more)
 
 Cheat updated to Stable 1.2
 
-//Testing webhookenz
+# 11/23/17 -
+Started working on Ghost Angles
+Legitbot improved
+Hake optimized
