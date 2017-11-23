@@ -26,5 +26,7 @@ Cheat updated to Stable 1.2
 
 # 11/23/17 -
 Started working on Ghost Angles
+
 Legitbot improved
+
 Hake optimized
