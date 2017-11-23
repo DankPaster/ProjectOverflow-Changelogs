@@ -33,3 +33,5 @@ Hake optimized
 // Hello boys, I'm Devastator. 2nd developer for Project Overflow.
 
 LegitAA added, Has a few bugs but it should be fixed before release
+
+BacktrackLBY is now apart of the AutoResolver.
