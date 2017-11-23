@@ -35,3 +35,5 @@ Hake optimized
 LegitAA added, Has a few bugs but it should be fixed before release
 
 BacktrackLBY is now apart of the AutoResolver.
+
+Color Tab, PList and Skin tabs added.
