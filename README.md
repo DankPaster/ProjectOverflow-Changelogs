@@ -31,4 +31,5 @@ Legitbot improved
 
 Hake optimized
 // Hello boys, I'm Devastator. 2nd developer for Project Overflow.
-LegitAA added, Has a few bugs but it should be fixed before release @DankPaster go on skype real quick. 
+
+LegitAA added, Has a few bugs but it should be fixed before release
