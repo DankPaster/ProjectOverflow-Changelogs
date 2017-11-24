@@ -39,20 +39,3 @@ BacktrackLBY is now apart of the AutoResolver.
 Color Tab, PList and Skin tabs added.
 # 11/24/17 -
 
-Updated Resolver, Has about a 75% chance of hitting Zeus.
-
-Updated Menu, (Combination of Ducarii's menu and Frosty.pw's menu which is also made by Ducarii lmao.)
-
-Fixed Security issue inside loader.
-
-Fixed a few memory leaks causing FPS Drops
-
-Tweaked hitscan to lag less when multiple enemies are on screen.
-
-Tweaked Hitchance to be more efficient.
-
-Added Moonwalk (Useful feature i know)
-
-Added Manual Roll, Yaw and Fake Yaw override for PList
-
-
