@@ -54,3 +54,11 @@ Tweaked Hitchance to be more efficient.
 Added Moonwalk (Useful feature i know)
 
 Added Manual Roll, Yaw and Fake Yaw override for PList
+
+# 11/25/17
+
+New menu framework
+
+![Menu](https://image.prntscr.com/image/NZ50831iSjCdxMT5oo42Aw.png "Optional title")
+
+(Lite has more features just a preview)
